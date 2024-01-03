@@ -14,7 +14,7 @@
 
 package main
 
-import "github.com/codeclimate/test-reporter/cmd"
+import "github.com/898311543/test-reporter/cmd"
 
 func main() {
 	cmd.Execute()
