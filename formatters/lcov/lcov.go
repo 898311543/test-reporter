@@ -8,8 +8,8 @@ import (
 	"strings"
 
 	"github.com/sirupsen/logrus"
-	"github.com/codeclimate/test-reporter/env"
-	"github.com/codeclimate/test-reporter/formatters"
+	"github.com/898311543/test-reporter/env"
+	"github.com/898311543/test-reporter/formatters"
 	"github.com/pkg/errors"
 )
 
